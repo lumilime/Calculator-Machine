@@ -1,0 +1,16 @@
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojResolveAssemblyReference.cache
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\Praktikum\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csprojAssemblyReference.cache
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalcultaorMachine.dll
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\bin\Debug\CalcultaorMachine.pdb
+E:\22.11.5180\CalculatorApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CopyComplete

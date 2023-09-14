@@ -1,0 +1,6 @@
+E:\22.11.5180\CalculatorApp\CalcultaorMachine\bin\Debug\CalcultaorMachine.dll
+E:\22.11.5180\CalculatorApp\CalcultaorMachine\bin\Debug\CalcultaorMachine.pdb
+E:\22.11.5180\CalculatorApp\CalcultaorMachine\obj\Debug\CalcultaorMachine.csprojAssemblyReference.cache
+E:\22.11.5180\CalculatorApp\CalcultaorMachine\obj\Debug\CalcultaorMachine.csproj.CoreCompileInputs.cache
+E:\22.11.5180\CalculatorApp\CalcultaorMachine\obj\Debug\CalcultaorMachine.dll
+E:\22.11.5180\CalculatorApp\CalcultaorMachine\obj\Debug\CalcultaorMachine.pdb
